@@ -16,7 +16,9 @@ let state;
 // boolen ==> standalone value
 // undefined ==>
 // symbol ==> unique
-// null==> standalone value
+// null==> standalone values
+
+// these are the data types
 
 
 
