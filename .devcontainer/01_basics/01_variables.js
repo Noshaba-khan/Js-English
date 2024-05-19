@@ -15,3 +15,6 @@ console.table([accountId,accountEmail,accountpassward,accountCity]);
 
 //  Perfer not to use var
 //    because of issues in block scope and functional scope
+
+// this is the type of variables
+
